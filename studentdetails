@@ -1,6 +1,4 @@
-{
-  "students": {
-    "student": [
+[
       {
         "rollno": "1",
         "firstName": "Deep",
@@ -20,5 +18,3 @@
         "contact": "9769325482"
       }
     ]
-  }
-}
