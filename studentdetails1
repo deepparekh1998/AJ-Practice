@@ -3,27 +3,27 @@
    {
    "rollno":"1",
    "name":"Deep",
-   "email":deepparekh01@gmail.com"
+   "email":"deepparekh01@gmail.com"
    },
    {
    "rollno":"2",
    "name":"Ishaan",
-   "email":ispa_01@gmail.com"
+   "email":"ispa_01@gmail.com"
    },
    {
    "rollno":"3",
    "name":"Nilkanth",
-   "email":niljani25@gmail.com"
+   "email":"niljani25@gmail.com"
    },
    {
    "rollno":"4",
    "name":"Dhehy",
-   "email":dk_patel@gmail.com"
+   "email":"dk_patel@gmail.com"
    },
    {
    "rollno":"5",
    "name":"Yogi",
-   "email":yogi02@gmail.com"
+   "email":"yogi02@gmail.com"
    }
    ]
 }
