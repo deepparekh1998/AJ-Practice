@@ -1,20 +1,29 @@
-[
-      {
-        "rollno": "1",
-        "firstName": "Deep",
-        "email": "dp01@gmail.com",
-        "contact": "9979020979"
-      },
-      {
-        "rollno": "2",
-        "firstName": "Ishaan",
-        "email": "ispa_01@gmail.com",
-        "contact": "9898256832"
-      },
-      {
-        "rollno": "3",
-        "firstName": "Nilkanth",
-        "email": "nil_jani25@gmail.com",
-        "contact": "9769325482"
-      }
-    ]
+{
+"student_details":[
+   {
+   "rollno":"1",
+   "name":"Deep",
+   "email":deepparekh01@gmail.com"
+   },
+   {
+   "rollno":"2",
+   "name":"Ishaan",
+   "email":ispa_01@gmail.com"
+   },
+   {
+   "rollno":"3",
+   "name":"Nilkanth",
+   "email":niljani25@gmail.com"
+   },
+   {
+   "rollno":"4",
+   "name":"Dhehy",
+   "email":dk_patel@gmail.com"
+   },
+   {
+   "rollno":"5",
+   "name":"Yogi",
+   "email":yogi02@gmail.com"
+   }
+   ]
+}
